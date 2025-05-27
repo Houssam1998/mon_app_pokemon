@@ -1,4 +1,4 @@
-# 🧠 Pokédex Intelligent – Prédiction de Type de Pokémon
+#  Pokédex Intelligent – Prédiction de Type de Pokémon
 
 Projet de machine learning combinant des données **statistiques** et **images** pour prédire automatiquement le **type principal** (Type 1) d’un Pokémon.
 
